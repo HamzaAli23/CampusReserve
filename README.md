@@ -2,7 +2,7 @@
 
 CampusReserve is a full-stack campus room and equipment reservation application built with FastAPI, SQLModel and SQLite. It provides a responsive browser dashboard, a documented REST API and automated tests for the core booking rules.
 
-> **Portfolio disclosure:** the AYBU wording is a design concept for Hamza Guelleh Ali's student portfolio. This is not an official Ankara Yıldırım Beyazıt University service.
+> **Portfolio disclosure:** the AYBU wording is a design concept for Hamza Guelleh Ali's student portfolio. This is not an official AYBU service.
 
 ## Features
 
