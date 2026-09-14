@@ -73,6 +73,4 @@ Version 0.2.1 is a local portfolio application. It has no authentication or staf
 
 ## Attribution and development disclosure
 
-The application uses FastAPI, SQLModel and Uvicorn. The researched [Full Stack FastAPI Template](https://github.com/fastapi/full-stack-fastapi-template) influenced the stack selection, but its application source was not copied. See `THIRD_PARTY_NOTICES.md`.
-
-Application scaffolding and documentation were prepared with AI assistance. The author should review, understand and extend the code before presenting it as portfolio work.
+The application uses FastAPI, SQLModel and Uvicorn. The researched [Full Stack FastAPI Template](https://github.com/fastapi/full-stack-fastapi-template) influenced the stack selection, See `THIRD_PARTY_NOTICES.md`.
