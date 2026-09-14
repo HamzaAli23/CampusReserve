@@ -71,6 +71,6 @@ tests/test_api.py      # API and interface checks
 
 Version 0.2.1 is a local portfolio application. It has no authentication or staff/student roles and does not guarantee conflict prevention across simultaneous processes. A production version should use PostgreSQL transactions and database-enforced conflict protection. It should also add authentication, authorization, audit logs and deployment hardening.
 
-## Attribution and development disclosure
+## Attribution
 
-The application uses FastAPI, SQLModel and Uvicorn. The researched [Full Stack FastAPI Template](https://github.com/fastapi/full-stack-fastapi-template) influenced the stack selection, See `THIRD_PARTY_NOTICES.md`.
+The application uses FastAPI, SQLModel and Uvicorn. The researched [Full Stack FastAPI Template](https://github.com/fastapi/full-stack-fastapi-template) influenced the stack selection. See `THIRD_PARTY_NOTICES.md`.
