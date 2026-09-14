@@ -55,6 +55,21 @@ python3 -m venv .venv
 
 The local database defaults to `campusreserve.db`. Set `CAMPUSRESERVE_DATABASE_URL` to use another SQLAlchemy database URL.
 
+## Screenshots
+
+### Dashboard and successful reservation
+
+![CampusReserve dashboard](docs/screenshots/dashboard.png)
+
+### Booking conflict detection
+
+![Overlapping booking rejected](docs/screenshots/conflict-detection.png)
+
+### Reservation cancellation
+
+![Cancelled reservation](docs/screenshots/cancellation.png)
+
+
 ## Project structure
 
 ```text
